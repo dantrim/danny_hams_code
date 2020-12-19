@@ -2,7 +2,9 @@
 Some utilities for encoding and decoding messages using single-error correcting Hamming codes.
 
 The encoding and decoding algorithms are derived from [tutorialspoint](https://www.tutorialspoint.com/error-correcting-codes-hamming-codes)
-and the [Hamming Codes wikipedia entry](https://en.wikipedia.org/wiki/Hamming_code).
+and the [Hamming Codes wikipedia entry](https://en.wikipedia.org/wiki/Hamming_code). Also, the wonderful videos
+from [3 Blue, 1 Brown](https://www.youtube.com/watch?v=X8jsijhllIA) and [Ben Eater](https://www.youtube.com/watch?v=h0jloehRKas&t=211s).
+You should follow both of these Youtube channels!
 
 ## Encode A Message
 
